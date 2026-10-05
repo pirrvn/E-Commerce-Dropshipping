@@ -9,6 +9,34 @@ Dernière mise à jour : 5 octobre 2026.
 - Prix vu : 5,79 € TTC, sur la page « Offres groupées » (Bundle Deals).
 - Concurrence en France : 20 à 24 € chez Zooplus pour des modèles équivalents (MCBOSON 650 ml à 23,59 €, autres à 20,27 €). Amazon propose des modèles proches, souvent moins chers.
 
+## Le site : omuzo.vercel.app (audit du 5 octobre 2026)
+
+Marque **OMUZO**, produit **FLOW 01™**. Site Next.js hébergé sur Vercel, paiement Stripe (carte, Apple Pay, Google Pay). Le code du site n'est pas dans ce repo.
+
+Prix actuels : 300 ml à 19,90 €, 350 ml à 24,90 €, 550 ml à 29,90 €. Offre duo (−4,90 € par paire) écrite dans les CGV, mais absente de la page.
+
+**Déjà très bien** : design pro et cohérent, promesse claire (« Un appui, le bol se remplit »), barre d'achat fixe sur mobile, FAQ utile, aucun faux avis ni faux compte à rebours, CGV déjà structurées.
+
+### À corriger avant la première vente (légal)
+
+1. Remplacer tous les champs entre crochets : e-mail, nom ou raison sociale, SIRET, adresse, directeur de la publication, hébergeur (Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis), médiateur.
+2. Souscrire à un **médiateur de la consommation** (obligatoire, service payant).
+3. Ajouter le **bouton de rétractation** (« Se rétracter du contrat ici »), obligatoire depuis le 19 juin 2026.
+4. Ajouter les infos de sécurité produit (**GPSR**) sur la page : fabricant et responsable dans l'UE.
+5. **Livrer la France seulement** au lancement, au lieu de « partout dans le monde » : délais, frais de port et douanes hors UE sont imprévisibles.
+6. Vérifier le délai **« 4 à 9 jours ouvrés »** avec les échantillons. S'il est faux, c'est trompeur et ça déclenche des litiges bancaires.
+
+### Pour vendre plus (marge et conversion)
+
+7. **Passer la 300 ml à 24,90 €** : à 19,90 €, il reste environ 5,50 € par vente, pas assez pour payer de la pub.
+8. **Afficher l'offre duo et la renforcer** : remise de 9,90 € par paire au lieu de 4,90 €, soit « 2 gourdes de 300 ml pour 39,90 € » (environ 16,90 € de marge), avec un choix « 1 gourde / 2 gourdes » et un badge. Prix des tailles 350 et 550 ml à recalculer avec leurs vrais coûts AliExpress.
+9. **Ajouter une vidéo de démo de 10 secondes** en haut de page (le bouton, le chien qui boit).
+10. **Remplacer les photos de chien d'AliExpress** par les vôtres dès réception des échantillons.
+11. Sur mobile, mettre la promesse (« La gourde qui devient gamelle ») dès le premier écran, sous « FLOW 01 ».
+12. **Installer la mesure** avant toute pub : Meta Pixel + API Conversions, TikTok Pixel, bandeau de cookies, politique de confidentialité mise à jour (elle dit aujourd'hui « aucun outil de suivi »).
+13. **Acheter le nom de domaine** omuzo.fr ou omuzo.com (environ 10 à 15 € par an), le brancher sur Vercel, et créer une adresse contact@ sur ce domaine.
+14. Vérifier que le nom OMUZO est libre sur data.inpi.fr avant d'investir en pub.
+
 ## Le verdict en 30 secondes
 
 1. **Bon produit pour la vidéo.** Il résout un vrai problème (le chien a soif en balade), et la démonstration se comprend en 3 secondes. C'est le critère n°1 pour vendre sur TikTok et Instagram.
@@ -165,7 +193,7 @@ Pas de chien ? Empruntez celui d'un proche, ou passez par les micro-influenceurs
 1. Vérifier le prix d'une gourde seule et le total avec douane au paiement.
 2. Commander 3 ou 4 échantillons.
 3. Choisir le statut juridique (seul en micro-entreprise, ou SAS/SARL à deux).
-4. Me dire avec quoi le site est fait, pour qu'on organise l'hébergement.
+4. Mettre le code du site sur GitHub (dans ce repo ou un autre) pour que je fasse les corrections de l'audit.
 5. Créer les comptes TikTok et Instagram, et tourner les 3 premières vidéos dès l'arrivée des échantillons.
 
 ## Sources

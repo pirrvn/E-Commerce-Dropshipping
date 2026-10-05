@@ -5,7 +5,8 @@
 Deux associés lancent une boutique en ligne en dropshipping, depuis la France, pour des clients français.
 
 - Produit phare : une gourde 2-en-1 étanche pour chiens, achetée sur AliExpress (5,79 € TTC affiché, hors douane).
-- Le site e-commerce existe déjà mais n'est pas encore hébergé. Son code n'est pas (encore) dans ce repo.
+- Marque : **OMUZO**, produit : **FLOW 01™**.
+- Site en ligne : https://omuzo.vercel.app (Next.js sur Vercel, paiement Stripe). Son code n'est pas (encore) dans ce repo.
 - Le plan marketing de référence est dans `docs/plan-marketing.md`. Mettez-le à jour quand une décision est prise ou qu'un chiffre réel remplace une hypothèse.
 
 ## Ton rôle
