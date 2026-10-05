@@ -20,22 +20,23 @@ Prix actuels : 300 ml à 19,90 €, 350 ml à 24,90 €, 550 ml à 29,90 €. Of
 ### À corriger avant la première vente (légal)
 
 1. Remplacer tous les champs entre crochets : e-mail, nom ou raison sociale, SIRET, adresse, directeur de la publication, hébergeur (Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis), médiateur.
-2. Souscrire à un **médiateur de la consommation** (obligatoire, service payant).
-3. Ajouter le **bouton de rétractation** (« Se rétracter du contrat ici »), obligatoire depuis le 19 juin 2026.
-4. Ajouter les infos de sécurité produit (**GPSR**) sur la page : fabricant et responsable dans l'UE.
-5. **Livrer la France seulement** au lancement, au lieu de « partout dans le monde » : délais, frais de port et douanes hors UE sont imprévisibles.
-6. Vérifier le délai **« 4 à 9 jours ouvrés »** avec les échantillons. S'il est faux, c'est trompeur et ça déclenche des litiges bancaires.
+2. Souscrire à un **médiateur de la consommation** (obligatoire). Exemple : CM2C, 40 € HT pour 3 ans.
+3. **Changer d'hébergement** : l'offre gratuite de Vercel (Hobby) interdit l'usage commercial. Passer sur Netlify (gratuit, vente autorisée) ou Vercel Pro (environ 20 $ par mois).
+4. Ajouter le **bouton de rétractation** (« Se rétracter du contrat ici »), obligatoire depuis le 19 juin 2026.
+5. Ajouter les infos de sécurité produit (**GPSR**) sur la page : fabricant et responsable dans l'UE.
+6. **Livrer la France seulement** au lancement, au lieu de « partout dans le monde » : délais, frais de port et douanes hors UE sont imprévisibles.
+7. Vérifier le délai **« 4 à 9 jours ouvrés »** avec les échantillons. S'il est faux, c'est trompeur et ça déclenche des litiges bancaires.
 
 ### Pour vendre plus (marge et conversion)
 
-7. **Passer la 300 ml à 24,90 €** : à 19,90 €, il reste environ 5,50 € par vente, pas assez pour payer de la pub.
-8. **Afficher l'offre duo et la renforcer** : remise de 9,90 € par paire au lieu de 4,90 €, soit « 2 gourdes de 300 ml pour 39,90 € » (environ 16,90 € de marge), avec un choix « 1 gourde / 2 gourdes » et un badge. Prix des tailles 350 et 550 ml à recalculer avec leurs vrais coûts AliExpress.
-9. **Ajouter une vidéo de démo de 10 secondes** en haut de page (le bouton, le chien qui boit).
-10. **Remplacer les photos de chien d'AliExpress** par les vôtres dès réception des échantillons.
-11. Sur mobile, mettre la promesse (« La gourde qui devient gamelle ») dès le premier écran, sous « FLOW 01 ».
-12. **Installer la mesure** avant toute pub : Meta Pixel + API Conversions, TikTok Pixel, bandeau de cookies, politique de confidentialité mise à jour (elle dit aujourd'hui « aucun outil de suivi »).
-13. **Acheter le nom de domaine** omuzo.fr ou omuzo.com (environ 10 à 15 € par an), le brancher sur Vercel, et créer une adresse contact@ sur ce domaine.
-14. Vérifier que le nom OMUZO est libre sur data.inpi.fr avant d'investir en pub.
+8. **Passer la 300 ml à 24,90 €** : à 19,90 €, il reste environ 5,50 € par vente, pas assez pour payer de la pub.
+9. **Afficher l'offre duo et la renforcer** : remise de 9,90 € par paire au lieu de 4,90 €, soit « 2 gourdes de 300 ml pour 39,90 € » (environ 16,90 € de marge), avec un choix « 1 gourde / 2 gourdes » et un badge. Prix des tailles 350 et 550 ml à recalculer avec leurs vrais coûts AliExpress.
+10. **Ajouter une vidéo de démo de 10 secondes** en haut de page (l'appui sur le bouton, l'eau qui monte puis redescend).
+11. **Remplacer les photos de chien d'AliExpress** par les vôtres dès réception des échantillons.
+12. Sur mobile, mettre la promesse (« La gourde qui devient gamelle ») dès le premier écran, sous « FLOW 01 ».
+13. **Installer la mesure** avant toute pub : Meta Pixel + API Conversions, TikTok Pixel, bandeau de cookies, politique de confidentialité mise à jour (elle dit aujourd'hui « aucun outil de suivi »).
+14. **Acheter le nom de domaine** omuzo.fr ou omuzo.com (environ 10 € par an), le brancher sur le site, et créer une adresse contact@ sur ce domaine.
+15. Vérifier que le nom OMUZO est libre sur data.inpi.fr avant d'investir en pub.
 
 ## Le verdict en 30 secondes
 
@@ -108,6 +109,30 @@ Angle de campagne (la tension que tout le monde connaît) :
 - Plus tard : un accessoire bonus du même type (même code douanier) pour monter le panier sans payer de frais supplémentaires.
 - **Produit d'hiver à ajouter** : un collier ou une lampe LED pour les balades du soir. Même cible, demande qui monte quand les jours raccourcissent. (Le « IQ Treat Ball » vu sur votre capture d'écran est aussi une piste.)
 
+## 3 bis. Budget (décision du 5 octobre 2026)
+
+Les associés veulent investir le moins possible et maximiser le retour sur investissement. Règle : pas un euro de pub avant qu'une vidéo ait prouvé son intérêt, puis la pub est financée par les bénéfices.
+
+| Poste | Coût |
+|---|---:|
+| 3 échantillons (douane comprise) | ≈ 35 € |
+| Nom de domaine omuzo.fr | ≈ 10 €/an |
+| Médiateur de la consommation (CM2C, 3 ans) | 48 € TTC |
+| Hébergement Netlify | 0 € |
+| Micro-entreprise | 0 € |
+| 10 gourdes offertes à des micro-influenceurs (envoyées directement par AliExpress) | ≈ 115 € |
+| **Total avant toute pub** | **≈ 210 €** |
+
+Règles pour la pub :
+1. Attendre un signal : une vidéo nettement au-dessus des autres, ou des commentaires « c'est où ? ».
+2. Premier test : 10 € par jour pendant 7 jours sur cette vidéo seulement (70 €), en Spark Ads TikTok.
+3. Aucune vente après 70 € : on coupe et on teste une autre vidéo.
+4. Une vente coûte moins de 16,90 € (marge du duo) : on continue, et on augmente de 20 % tous les 2 ou 3 jours, payé par les bénéfices.
+
+Argent maximum en jeu avant d'avoir une preuve : environ 300 €.
+
+**Règle de prix pour les autres tailles** : prix de vente ≥ 2,2 × (prix AliExpress + 5,60 € de douane et de frais).
+
 ## 4. Les canaux, phase par phase
 
 ### Phase 0 : les fondations (semaines 1 et 2)
@@ -136,7 +161,7 @@ Signal pour démarrer : une vidéo qui dépasse nettement vos autres en vues, pa
 - **Meta** : une campagne « Ventes » en Advantage+, France, ciblage large, 20 €/jour, 3 à 5 vidéos.
 - **TikTok** : Spark Ads, c'est-à-dire vos meilleures vidéos organiques boostées.
 - **Google Shopping** : peu de volume, mais des gens qui cherchent déjà « gourde chien ».
-- Budget de test réaliste : **500 à 1 000 €** sur 3 à 4 semaines.
+- Budget : voir la section 3 bis (10 € par jour pendant 7 jours, puis payé par les bénéfices).
 
 Règles de pilotage :
 - Ne touchez à rien pendant 3 ou 4 jours (le temps que l'algorithme apprenne).
@@ -163,7 +188,25 @@ Règles de pilotage :
 | Décembre à février | Angle « balades d'hiver », produit LED, analyse des chiffres, petit stock en France si les ventes suivent |
 | Mars à août | Haute saison : on augmente les budgets sur les vidéos qui ont marché |
 
-## 6. Idées de vidéos
+## 6. Idées de vidéos (sans chien)
+
+Les associés n'ont pas de chien. Signature de marque : **« Pas dans ta main. Au museau. »** (jeu de mots OMUZO = « au museau »). Terminer chaque vidéo par « Omuzo. Au museau. », hashtag #AuMuseau.
+
+À tourner avec les mains :
+- **« Pas dans ta main. »** De l'eau versée dans une main en coupelle qui fuit, puis un appui sur la gourde : l'eau monte proprement dans le bol.
+- **Test d'étanchéité** : gourde verrouillée, secouée à l'envers au-dessus d'un ordinateur. « Toujours sec. »
+- **Le mécanisme au ralenti** : un appui, l'eau monte. Un second appui, elle redescend.
+- **« Ce que j'emporte pour la balade »**, tourné dehors.
+- **Idée cadeau** en novembre et décembre.
+
+Images de chiens gratuites :
+- Parcs à chiens le week-end : faire tester la gourde aux propriétaires et filmer leur chien, avec leur accord (pas de visages sans permission).
+- Un refuge ou une association : offrir 3 à 5 gourdes, filmer les bénévoles en promenade.
+- Les 10 micro-influenceurs du budget, avec droit écrit de réutiliser leurs vidéos en pub.
+
+À éviter : chiens générés par IA présentés comme réels, vidéos d'autres comptes ou d'AliExpress reprises telles quelles.
+
+### Idées avec un chien (influenceurs, parcs)
 
 1. **« Arrête de lui verser de l'eau dans ta main. »** Un plan main en coupelle, puis la gourde : un bouton, le chien boit, l'eau qui reste retourne dans la gourde (à vérifier sur l'échantillon).
 2. **Test d'étanchéité** : la gourde à l'envers dans un sac avec un ordinateur. « Mon sac a survécu. »
@@ -173,7 +216,6 @@ Règles de pilotage :
 6. **« Les 3 choses que j'emporte toujours en balade »**, avec la gourde en dernier.
 7. **Cadeau (novembre-décembre)** : « Idée cadeau à moins de 25 € pour ta pote qui ne parle que de son chien. »
 
-Pas de chien ? Empruntez celui d'un proche, ou passez par les micro-influenceurs.
 
 ## 7. Le légal à cocher (France, 2026)
 

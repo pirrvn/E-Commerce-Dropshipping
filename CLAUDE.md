@@ -5,8 +5,9 @@
 Deux associés lancent une boutique en ligne en dropshipping, depuis la France, pour des clients français.
 
 - Produit phare : une gourde 2-en-1 étanche pour chiens, achetée sur AliExpress (5,79 € TTC affiché, hors douane).
-- Marque : **OMUZO**, produit : **FLOW 01™**.
-- Site en ligne : https://omuzo.vercel.app (Next.js sur Vercel, paiement Stripe). Son code n'est pas (encore) dans ce repo.
+- Marque : **OMUZO** (jeu de mots sur « au museau »), produit : **FLOW 01™**. Signature : « Pas dans ta main. Au museau. »
+- Site en ligne : https://omuzo.vercel.app (Next.js sur Vercel, paiement Stripe), créé avec Claude Code sur un ordinateur. Son code n'est pas (encore) dans ce repo. L'offre gratuite de Vercel interdit la vente : prévoir Netlify ou Vercel Pro.
+- Contraintes : budget minimum (environ 210 € avant toute pub, puis pub payée par les bénéfices), pas de chien disponible pour les vidéos.
 - Le plan marketing de référence est dans `docs/plan-marketing.md`. Mettez-le à jour quand une décision est prise ou qu'un chiffre réel remplace une hypothèse.
 
 ## Ton rôle
